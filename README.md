@@ -18,3 +18,7 @@ I have provided comments at two places in the code, that mention that the option
 
 4) Things not handled:
 When the elevator stops, there can be an alarm for leaving the door open for long or some maintainance work indication.
+
+5) Build and Test:
+All the java files are present in the repo, just need to compile them. There are two main files, one to test the Elevator and the other to test the ElevatorSystemControl, I have provided very basic testing code in the main file to check the current floor elevator is in after a couple of operations on it. The inputs are given by user. 
+I have used eclipse environment to build and test the code.
